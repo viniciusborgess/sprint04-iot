@@ -46,7 +46,6 @@ Nesta versão, o reconhecimento facial é usado para **identificar o usuário** 
 
 ## 🚀 Como executar o projeto
 
-### 📦 Instalação inicial
 ```bash
 python -m venv .venv
 # Windows: .venv\Scripts\activate
