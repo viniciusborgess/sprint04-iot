@@ -28,11 +28,12 @@ Nesta versão, o reconhecimento facial é usado para **identificar o usuário** 
 ---
 
 ## ⚙️ Funcionalidades principais
-✅ Detecção e identificação facial em tempo real
-✅ Parâmetros ajustáveis de detecção (scale, vizinhos, minSize, threshold)
-✅ Integração via REST API com o sistema Guardian
-✅ Exibição de mensagens educativas (advisories) personalizadas
-✅ Logs detalhados e resposta visual direta
+- ✅ Detecção e identificação facial em tempo real
+- ✅ Parâmetros ajustáveis de detecção (scale, vizinhos, minSize, threshold)
+- ✅ Integração via REST API com o sistema Guardian
+- ✅ Exibição de mensagens educativas (advisories) personalizadas
+- ✅ Logs detalhados e resposta visual direta
+
 
 ---
 
