@@ -1,0 +1,5 @@
+Webcam 
+  ↓
+recognize.py (OpenCV/LBPH)  --(POST JSON)-->  Guardian API (FastAPI)
+                                                 ↓
+                         Advisory/Sistema Final (exibir alerta, registrar evento, simular investimento)
